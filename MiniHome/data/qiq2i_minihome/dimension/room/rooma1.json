@@ -1,0 +1,21 @@
+{
+    "type": "qiq2i_minihome:room/rooma1",
+    "generator": {
+      "type": "minecraft:flat",
+      "settings": {
+        "layers": [
+          {
+            "block": "air",
+            "height": 1
+          }
+        ],
+        "biome": "minecraft:the_void",
+        "features": false,
+        "lakes": false,
+        "structures": {
+          "structures": {}
+        },
+        "structure_overrides": []
+      }
+    }
+}

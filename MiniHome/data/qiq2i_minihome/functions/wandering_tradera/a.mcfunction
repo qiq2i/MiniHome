@@ -1,0 +1,2 @@
+tag @s add qiq2i_minihome_wandering_tradera.1
+execute run data modify entity @s Offers.Recipes prepend value {maxUses: 1, buy: {id: "minecraft:emerald_block", Count: 9b}, buyB: {id: "minecraft:air", Count: 1b}, sell: {id: "minecraft:bat_spawn_egg", Count: 1b ,tag:{display:{Name:'{"text":"§2§l随身家园 - 小木屋"}',Lore:['{"text":""}']},CustomModelData:2022032,EntityTag:{id:"minecraft:marker",Tags:["qiq2i_minihome_item.a"]}}}, xp: 1, uses: 0, priceMultiplier: 0.05f, specialPrice: 0, demand: 0, rewardExp: 1b}
